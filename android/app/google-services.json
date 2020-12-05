@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798410837411",
+    "firebase_url": "https://pantau-covid.firebaseio.com",
+    "project_id": "pantau-covid",
+    "storage_bucket": "pantau-covid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798410837411:android:0987e28b3ba95d5ef59e16",
+        "android_client_info": {
+          "package_name": "com.rijal.pantaucvd19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798410837411-015dqik9lg9mntt9oogmppkjtrfhf14o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIAtJSWP9lX9uyDgDJNTsNY4LVOKL8qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798410837411-015dqik9lg9mntt9oogmppkjtrfhf14o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
